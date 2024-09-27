@@ -1,2 +1,2 @@
-# AI sentiment analysis web app using python flask
-A Python AI-based web app using Flask and integrate Embeddable Watson AI libraries 
+# coding-project-template
+This repo is for the practice project which is to be based on Embedded AI libraries. 
